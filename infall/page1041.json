@@ -1,43 +1,76 @@
 [
   {
-    "video_id": "BcqxLCWn-CE",
-    "title": "Lauv - I Like Me Better [Official Video]",
+    "video_id": "5HlAlSEge0w",
+    "title": "Top 10 Amazing (Somewhat Terrifying) Facts about AI",
+    "video_tags": [
+      "Advanced"
+    ],
+    "duration": "12:12"
+  },
+  {
+    "video_id": "VoqeCJnc-GE",
+    "title": "Zeitgeist: Moving Forward -=Trailer=- [Extended]",
+    "video_tags": [
+      "Int"
+    ],
+    "duration": "05:54"
+  },
+  {
+    "video_id": "3LoTF_B8vrU",
+    "title": "10 Brand Names You are Pronouncing WRONG! - Nike, Amazon, McDonald's, Mercedes-Benz, Disney, etc.",
     "video_tags": [
       "Basic",
       "US"
     ],
-    "duration": "03:26"
+    "duration": "06:21"
   },
   {
-    "video_id": "uUDrQTb7tKQ",
-    "title": "All You Can Eat HOTPOT Buffet Tour of New York PART 1",
-    "video_tags": [
-      "Int",
-      "US"
-    ],
-    "duration": "25:36"
-  },
-  {
-    "video_id": "mp_w0xZ9XFg",
-    "title": "Conan Hits The Streets & Beaches Of Tel Aviv  - CONAN on TBS",
-    "video_tags": [
-      "Int",
-      "US"
-    ],
-    "duration": "09:05"
-  },
-  {
-    "video_id": "wGV_7az35sg",
-    "title": "Best Prepositions lesson! On / In / At",
+    "video_id": "kirDKmZhOd8",
+    "title": "Stop Being Lazy And Start Taking Action - The Worst Motivational Video Ever (clickbait)",
     "video_tags": [
       "Basic",
-      "UK"
+      "US"
     ],
-    "duration": "04:13"
+    "duration": "04:06"
   },
   {
-    "video_id": "0Exxu8lsGYE",
-    "title": "SZA - Broken Clocks (Audio)",
+    "video_id": "ANT_ZBhpvtw",
+    "title": "LIVE: Third Presidential Debate (C-SPAN)",
+    "video_tags": [
+      "Advanced",
+      "US"
+    ],
+    "duration": "01:36:50"
+  },
+  {
+    "video_id": "BL_mu1E0iEw",
+    "title": "How to Use & Counter Cannon Cart | Clash Royale",
+    "video_tags": [
+      "Int",
+      "US"
+    ],
+    "duration": "11:52"
+  },
+  {
+    "video_id": "aGedUxTAfBk",
+    "title": "The Purpose of Friendship",
+    "video_tags": [
+      "Int"
+    ],
+    "duration": "06:13"
+  },
+  {
+    "video_id": "ii1jcLg-eIQ",
+    "title": "Lecture 3 - Before the Startup (Paul Graham)",
+    "video_tags": [
+      "Advanced",
+      "US"
+    ],
+    "duration": "48:08"
+  },
+  {
+    "video_id": "IumYMCllMsM",
+    "title": "Machine Gun Kelly, X Ambassadors & Bebe Rexha - Home (from Bright: The Album) [Official Video]",
     "video_tags": [
       "Basic",
       "US"
@@ -45,49 +78,58 @@
     "duration": "03:53"
   },
   {
-    "video_id": "7sqeoYOQ4qg",
-    "title": "How to fix a broken education system ... without any more money | Seema Bansal",
-    "video_tags": [
-      "Int",
-      "US"
-    ],
-    "duration": "14:29"
-  },
-  {
-    "video_id": "o73pqQ9Gzt4",
-    "title": "Fix Yourself",
-    "video_tags": [
-      "Int",
-      "US"
-    ],
-    "duration": "05:25"
-  },
-  {
-    "video_id": "30ca9Wh8aZM",
-    "title": "7. Gilding the Lily: Painting Palaces and Villas in the First Century A.D.",
+    "video_id": "HqOoqBEIM5I",
+    "title": "Christian Movie \"Knocking at the Door\" | How to Welcome the Second Coming of Lord Jesus in Last Days",
     "video_tags": [
       "Advanced",
       "US"
     ],
-    "duration": "01:13:58"
+    "duration": "02:35:54"
   },
   {
-    "video_id": "nWfDEDCobpM",
-    "title": "Kit Harington's Never-Before-Seen Game of Thrones Audition",
+    "video_id": "oBIxScJ5rlY",
+    "title": "John Mayer - Waiting On the World to Change (Official Music Video)",
     "video_tags": [
       "Basic",
       "US"
     ],
-    "duration": "02:28"
+    "duration": "03:22"
   },
   {
-    "video_id": "6L6PJiQyNlQ",
-    "title": "ROGER FRAMPTON - THE FLEXIBLE BODY | London Real",
+    "video_id": "6YmrL1bF8q8",
+    "title": "Inside America's First Private Terminal For Millionaires",
     "video_tags": [
-      "Advanced",
-      "UK"
+      "Int",
+      "US"
     ],
-    "duration": "45:57"
+    "duration": "05:04"
+  },
+  {
+    "video_id": "cozcXiSSkwE",
+    "title": "Manchester Baby: world's first stored program computer",
+    "video_tags": [
+      "Int",
+      "US"
+    ],
+    "duration": "07:47"
+  },
+  {
+    "video_id": "Eq9R6FvCHOQ",
+    "title": "China Takes Back Its Panda, in Secret Soft Power Plot | China Uncensored",
+    "video_tags": [
+      "Int",
+      "US"
+    ],
+    "duration": "09:07"
+  },
+  {
+    "video_id": "NzwSCtgsWdM",
+    "title": "F8: Everything you need to know",
+    "video_tags": [
+      "Int",
+      "US"
+    ],
+    "duration": "04:01"
   },
   {
     "video_id": "rYbeyU3pQvI",
@@ -97,50 +139,5 @@
       "US"
     ],
     "duration": "42:12"
-  },
-  {
-    "video_id": "9OCzV7Pq2bk",
-    "title": "Sia - Chandelier Żyrandol Tłumaczenie polskie napisy tekst lyrics",
-    "video_tags": [
-      "Basic",
-      "US"
-    ],
-    "duration": "03:31"
-  },
-  {
-    "video_id": "CxO2GW4QT_M",
-    "title": "National Museum of Natural History - Student Orientation Video",
-    "video_tags": [
-      "Int",
-      "US"
-    ],
-    "duration": "06:33"
-  },
-  {
-    "video_id": "ZKOL-rZ79gs",
-    "title": "Project Management Simplified: Learn The Fundamentals of PMI's Framework ✓",
-    "video_tags": [
-      "Advanced",
-      "US"
-    ],
-    "duration": "50:41"
-  },
-  {
-    "video_id": "IoOURF4lZJ4",
-    "title": "Who Do You Think You Are  J.K.Rowling| Parte 1/4",
-    "video_tags": [
-      "Advanced",
-      "UK"
-    ],
-    "duration": "58:52"
-  },
-  {
-    "video_id": "a-Lp2uC_1lg",
-    "title": "Shania Twain - From This Moment On (Official Music Video)",
-    "video_tags": [
-      "Basic",
-      "US"
-    ],
-    "duration": "03:57"
   }
 ]

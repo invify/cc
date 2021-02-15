@@ -1,143 +1,146 @@
 [
   {
-    "video_id": "EjKm6ovxEyw",
-    "title": "Would You Rather Break A Bone Or Lose Your Phone?",
-    "video_tags": [
-      "Int",
-      "US"
-    ],
-    "duration": "03:20"
-  },
-  {
-    "video_id": "2PEt5RdNHNw",
-    "title": "Dungeons and Dragons, explained",
-    "video_tags": [
-      "Int",
-      "US"
-    ],
-    "duration": "10:13"
-  },
-  {
-    "video_id": "fV4DiAyExN0",
-    "title": "Hoobastank - The Reason (Official Music Video)",
-    "video_tags": [
-      "Basic",
-      "US"
-    ],
-    "duration": "04:11"
-  },
-  {
-    "video_id": "Xmw9SWJ0L50",
-    "title": "Wide & Deep Learning with TensorFlow - Machine Learning",
-    "video_tags": [
-      "Int"
-    ],
-    "duration": "03:25"
-  },
-  {
-    "video_id": "5riPKdpuoiI",
-    "title": "My underwater robot | David Lang",
-    "video_tags": [
-      "Int",
-      "US"
-    ],
-    "duration": "04:29"
-  },
-  {
-    "video_id": "lXXXygDRyBU",
-    "title": "How Not To Die: The Role of Diet in Preventing, Arresting, and Reversing Our Top 15 Killers",
-    "video_tags": [
-      "Basic",
-      "US"
-    ],
-    "duration": "01:22:15"
-  },
-  {
-    "video_id": "-ngWhkPY9d4",
-    "title": "The Best Strategy to Increase Sales | DailyVee 427",
-    "video_tags": [
-      "Int",
-      "US"
-    ],
-    "duration": "09:56"
-  },
-  {
-    "video_id": "w4cS1Y0HH6I",
-    "title": "How China Went From Copying Tech to Defining It",
-    "video_tags": [
-      "Basic",
-      "US"
-    ],
-    "duration": "03:09"
-  },
-  {
-    "video_id": "c_gqTkwiGys",
-    "title": "6 Ways To Cope With High Functioning Depression",
-    "video_tags": [
-      "Int",
-      "US"
-    ],
-    "duration": "04:37"
-  },
-  {
-    "video_id": "aIrDeBoUGlE",
-    "title": "What Is Selective Mutism? | Child Psychology",
-    "video_tags": [
-      "Int"
-    ],
-    "duration": "02:05"
-  },
-  {
-    "video_id": "0mcliwfs6Pg",
-    "title": "Warriors of the Sea | Full Documentary - Planet Doc Full Documentaries",
-    "video_tags": [
-      "Advanced"
-    ],
-    "duration": "50:38"
-  },
-  {
-    "video_id": "c1bNVvXznDo",
-    "title": "10 Minute Go 06",
-    "video_tags": [
-      "Basic",
-      "Other"
-    ],
-    "duration": "08:21"
-  },
-  {
-    "video_id": "PVjiKRfKpPI",
-    "title": "Hozier - Take Me To Church (Official Video)",
-    "video_tags": [
-      "Basic",
-      "US"
-    ],
-    "duration": "04:17"
-  },
-  {
-    "video_id": "SNq4VxhzaoQ",
-    "title": "A Place Called Slaughter Race (From \"Ralph Breaks the Internet\")",
-    "video_tags": [
-      "Int",
-      "US"
-    ],
-    "duration": "03:47"
-  },
-  {
-    "video_id": "rokPqHc9iD0",
-    "title": "Robert Muggah: How to protect fast-growing cities from failing",
+    "video_id": "6ORDQFh0Byw",
+    "title": "Lesley Hazleton: The doubt essential to faith",
     "video_tags": [
       "Advanced",
       "US"
     ],
-    "duration": "14:53"
+    "duration": "13:46"
   },
   {
-    "video_id": "QsaDQJkS9N0",
-    "title": "Selena Gomez, Marshmello - Wolves (Music Video)",
+    "video_id": "OF9jffX7qiI",
+    "title": "5 Days Of Learning New Skills | Try Living With Lucie | Refinery29",
+    "video_tags": [
+      "Int",
+      "US"
+    ],
+    "duration": "12:34"
+  },
+  {
+    "video_id": "gBkIyJ7kf_I",
+    "title": "What's Your Type? | Jean Kummerow | TEDxGrinnellCollege",
+    "video_tags": [
+      "Int",
+      "US"
+    ],
+    "duration": "21:03"
+  },
+  {
+    "video_id": "XCo6yyutYAM",
+    "title": "What is a Bitcoin hard fork? Simply Explained!",
+    "video_tags": [
+      "Int",
+      "US"
+    ],
+    "duration": "04:41"
+  },
+  {
+    "video_id": "I1P7GoZcZpU",
+    "title": "Hudson Moore - Just Wanna Love You (Official Music Video)",
     "video_tags": [
       "Basic",
       "US"
     ],
-    "duration": "03:19"
+    "duration": "02:57"
+  },
+  {
+    "video_id": "K_nrkmA9kqA",
+    "title": "Say, Tell, Speak, Talk: What's the difference?",
+    "video_tags": [
+      "Basic",
+      "US"
+    ],
+    "duration": "10:22"
+  },
+  {
+    "video_id": "wopM3A3tyTw",
+    "title": "5 More Computer Viruses You Really Don't Want to Get",
+    "video_tags": [
+      "Int",
+      "US"
+    ],
+    "duration": "11:07"
+  },
+  {
+    "video_id": "_OWZMFs4lwA",
+    "title": "PEEVES",
+    "video_tags": [
+      "Basic",
+      "US"
+    ],
+    "duration": "04:26"
+  },
+  {
+    "video_id": "T4r6nGIsmAc",
+    "title": "SketchUp Skill Builder: Reference Images",
+    "video_tags": [
+      "Int",
+      "US"
+    ],
+    "duration": "08:52"
+  },
+  {
+    "video_id": "8OARiNiJ_w8",
+    "title": "G-Eazy - Sober (Official Video) ft. Charlie Puth",
+    "video_tags": [
+      "Basic",
+      "US"
+    ],
+    "duration": "04:25"
+  },
+  {
+    "video_id": "391c5nWG5-0",
+    "title": "Dreezy - Spar ft. 6LACK, Kodak Black (Offcial Video)",
+    "video_tags": [
+      "Int",
+      "US"
+    ],
+    "duration": "03:56"
+  },
+  {
+    "video_id": "v75wCTMZoSY",
+    "title": "\"TED CRUZ\" — A Bad Lip Reading",
+    "video_tags": [
+      "Basic",
+      "US"
+    ],
+    "duration": "03:54"
+  },
+  {
+    "video_id": "IHPTi-SX_2s",
+    "title": "Drake Bell - I Know",
+    "video_tags": [
+      "Basic",
+      "US"
+    ],
+    "duration": "03:46"
+  },
+  {
+    "video_id": "2BgtftaJAWA",
+    "title": "Seal Strawberry Daifuku",
+    "video_tags": [
+      "Basic",
+      "US"
+    ],
+    "duration": "04:47"
+  },
+  {
+    "video_id": "EiCNYPBZ6As",
+    "title": "香煎滑嫩親子丼做法/ oyako don《MASAの料理ABC》",
+    "video_tags": [
+      "Int",
+      "US"
+    ],
+    "duration": "05:56"
+  },
+  {
+    "video_id": "w5JYbSUY-HU",
+    "title": "CNN Student News - 04/06/16",
+    "video_tags": [
+      "Advanced",
+      "US"
+    ],
+    "duration": "10:01"
   }
 ]

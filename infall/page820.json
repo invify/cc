@@ -1,143 +1,145 @@
 [
   {
-    "video_id": "ZTEHNRGqcxA",
-    "title": "Sam Feldt - Show Me Love (EDX's Indian Summer Remix) [Official Video]",
+    "video_id": "cxLgVJ4yFDc",
+    "title": "How to Play the T34",
+    "video_tags": [
+      "Int",
+      "US"
+    ],
+    "duration": "04:52"
+  },
+  {
+    "video_id": "YDmICpDmOkQ",
+    "title": "Deep English - Idioms (Slow Speed)",
     "video_tags": [
       "Basic",
       "US"
     ],
-    "duration": "03:54"
+    "duration": "04:19"
   },
   {
-    "video_id": "P2ErSQj3SN8",
-    "title": "March - AngularJS MTV Meetup Livestream: CRUD Apps with Angular and Breeze",
-    "video_tags": [
-      "Advanced"
-    ],
-    "duration": "52:56"
-  },
-  {
-    "video_id": "zRbFuIctTEU",
-    "title": "What If Earth Started Spinning Twice as Fast Right Now?",
-    "video_tags": [
-      "Int",
-      "US"
-    ],
-    "duration": "06:29"
-  },
-  {
-    "video_id": "g2OkKUsQ31s",
-    "title": "China growth rate at its lowest since 1990",
-    "video_tags": [
-      "Int",
-      "US"
-    ],
-    "duration": "01:53"
-  },
-  {
-    "video_id": "aSJpnjmqGkY",
-    "title": "Dua Lipa - New Rules (Alison Wonderland Remix)",
-    "video_tags": [
-      "Basic",
-      "US"
-    ],
-    "duration": "04:24"
-  },
-  {
-    "video_id": "aBwYUwuYRxE",
-    "title": "Lennon Stella // “Like Everybody Else” (Acoustic)",
-    "video_tags": [
-      "Basic",
-      "US"
-    ],
-    "duration": "03:17"
-  },
-  {
-    "video_id": "_TqOLFLcVPM",
-    "title": "Sleep",
-    "video_tags": [
-      "Int",
-      "US"
-    ],
-    "duration": "07:32"
-  },
-  {
-    "video_id": "JiYVoHEV5hs",
-    "title": "Why is chicken so cheap? | The Economist",
-    "video_tags": [
-      "Int",
-      "US"
-    ],
-    "duration": "06:24"
-  },
-  {
-    "video_id": "yibMAnXVGoA",
-    "title": "'Naked and Afraid'",
+    "video_id": "zgV-WzLyrYE",
+    "title": "Deep Learning with Tensorflow - Tensors, Variables and Placeholders",
     "video_tags": [
       "Int"
     ],
-    "duration": "05:28"
+    "duration": "04:51"
   },
   {
-    "video_id": "xHHb7R3kx40",
-    "title": "Why fascism is so tempting -- and how your data could power it | Yuval Noah Harari",
-    "video_tags": [
-      "Advanced",
-      "US"
-    ],
-    "duration": "18:23"
-  },
-  {
-    "video_id": "9c10qFw7YuY",
-    "title": "Why Do You Hate 64.28% of Your Life? | A Gary Vaynerchuk Original",
-    "video_tags": [
-      "Basic",
-      "US"
-    ],
-    "duration": "02:30"
-  },
-  {
-    "video_id": "aQzai9oXb-g",
-    "title": "Trying On Wedding Dresses | November Vlog Pt. 1",
+    "video_id": "Sx2PfL2ekTY",
+    "title": "Madonna Carpool Karaoke",
     "video_tags": [
       "Int",
       "US"
     ],
-    "duration": "16:10"
+    "duration": "13:48"
   },
   {
-    "video_id": "gcH6tFugYfo",
-    "title": "Why You Don't Feel Good Enough",
-    "video_tags": [
-      "Advanced"
-    ],
-    "duration": "21:59"
-  },
-  {
-    "video_id": "3oyx0-0DZrA",
-    "title": "Emma's TOP 15 STUDY TIPS",
-    "video_tags": [
-      "Int",
-      "US"
-    ],
-    "duration": "33:16"
-  },
-  {
-    "video_id": "oINfXbPsVqM",
-    "title": "Cheryl Strayed on How To Become a Writer, The Power of Art & More",
-    "video_tags": [
-      "Advanced",
-      "US"
-    ],
-    "duration": "48:59"
-  },
-  {
-    "video_id": "QxJhrwyn0M4",
-    "title": "Young the Giant: Superposition [OFFICIAL VIDEO]",
+    "video_id": "KlIp4EC3hSQ",
+    "title": "Charlie Puth - Change ft. James Taylor (Lyrics)",
     "video_tags": [
       "Basic",
       "US"
     ],
-    "duration": "03:52"
+    "duration": "03:37"
+  },
+  {
+    "video_id": "qV5lzRHrGeg",
+    "title": "Carly Rae Jepsen - I Really Like You",
+    "video_tags": [
+      "Basic",
+      "US"
+    ],
+    "duration": "03:29"
+  },
+  {
+    "video_id": "mp-IZEFqrG0",
+    "title": "CAZZETTE - Beam Me Up (Official Director Cut)",
+    "video_tags": [
+      "Basic",
+      "US"
+    ],
+    "duration": "03:55"
+  },
+  {
+    "video_id": "F3U-5iHbpBo",
+    "title": "Learn English with Music Videos and Songs | Ten Tips | With Subtitles",
+    "video_tags": [
+      "Basic",
+      "US"
+    ],
+    "duration": "07:57"
+  },
+  {
+    "video_id": "_LSevw1sfpk",
+    "title": "Friction - Why is it difficult to pull a boat on the beach than on the sea? | #aumsum #kids #science",
+    "video_tags": [
+      "Basic",
+      "US"
+    ],
+    "duration": "01:51"
+  },
+  {
+    "video_id": "t8R_GKS-M2Y",
+    "title": "The future of good food in China | Matilda Ho",
+    "video_tags": [
+      "Int",
+      "US"
+    ],
+    "duration": "05:05"
+  },
+  {
+    "video_id": "-GjHuHe9CQQ",
+    "title": "【Audio】 Nightmare Night (Lyrics in CC) | Music-5",
+    "video_tags": [
+      "Basic",
+      "Other"
+    ],
+    "duration": "03:15"
+  },
+  {
+    "video_id": "6pnYcUQahGM",
+    "title": "Healthy Eating in English (accent from USA)",
+    "video_tags": [
+      "Int",
+      "US"
+    ],
+    "duration": "06:48"
+  },
+  {
+    "video_id": "Z0bEgND8rZk",
+    "title": "AMAZING SWIMMER!",
+    "video_tags": [
+      "Int",
+      "US"
+    ],
+    "duration": "14:43"
+  },
+  {
+    "video_id": "SRfU7Ejr00Q",
+    "title": "VIDEO: Upstate Soldier dad surprises daughter at soccer game",
+    "video_tags": [
+      "Basic",
+      "US"
+    ],
+    "duration": "01:13"
+  },
+  {
+    "video_id": "lb8nc9TTpB4",
+    "title": "Inside Amy Schumer - POV Porn",
+    "video_tags": [
+      "Basic",
+      "US"
+    ],
+    "duration": "01:57"
+  },
+  {
+    "video_id": "cSwcrVhSQkI",
+    "title": "How to solve a Gear Cube",
+    "video_tags": [
+      "Basic",
+      "US"
+    ],
+    "duration": "06:24"
   }
 ]
